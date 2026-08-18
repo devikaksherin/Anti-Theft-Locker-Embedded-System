@@ -1,0 +1,7 @@
+Anti-Theft Locker System - Wokwi Simulation
+
+Simulation Platform:
+Wokwi
+
+Wokwi Project Link:
+https://wokwi.com/projects/472501606236615681
